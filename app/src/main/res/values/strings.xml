@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Game App</string>
+    <string name="no_internet_connectivity">Tidak ada koneksi internet</string>
+    <string name="try_again">Silahkan Coba Lagi</string>
+    <string name="loading">Loading...</string>
+    <string name="game_name_text">Vampire: The Masquerade - Bloodlines 2</string>
+    <string name="release_date_text">Release Date: " "</string>
+    <string name="date_text">Dec 31, 2023</string>
+    <string name="gendres_text">Gendres: " "</string>
+    <string name="search_games_text">Search Games</string>
+    <string name="developers_text">Developers: " "</string>
+    <string name="description_text">Description</string>
+    <string name="description_value_text">Description Value</string>
+    <string name="developer_name_text">Developer Name</string>
+    <string name="value_genres_text">Value Genres</string>
+    <string name="game_app_text">Game App</string>
+</resources>
